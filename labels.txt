@@ -1,0 +1,3 @@
+0 unmaskable
+1 maskable
+2 nobody
