@@ -1,5 +1,5 @@
 # Project
-- This is our first multidisclipinary project 
+- This is our first multidiscliplinary project 
 
 # Introduction 
 - Detect 3 objects using a webcam:
