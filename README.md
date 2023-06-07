@@ -4,8 +4,8 @@
 # Introduction 
 - Detect 3 objects using a webcam:
   + an object with mask
-  + Detect an object with no mask
-  + Detect nobody
+  + an object with no mask
+  + nobody
 
 # Requirement
 -tensorflow
